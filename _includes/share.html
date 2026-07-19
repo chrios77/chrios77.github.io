@@ -1,0 +1,30 @@
+<!-- _includes/share.html -->
+<div class="share-wrapper" style="display: block !important; width: 100% !important; text-align: right !important; margin: 0 !important; padding: 0 !important;">
+  <div style="display: inline-flex !important; align-items: center !important; justify-content: flex-end !important; gap: 8px !important; float: right !important;">
+    
+    <span class="share-label text-muted-dark" style="font-size: 0.85rem !important; margin: 0 !important; padding: 0 !important; line-height: 1 !important;">
+      {{ site.data.locales[site.lang].post.share }}
+    </span>
+    
+    <a href="https://github.com/chrios77" 
+       class="share-github text-muted" 
+       title="GitHub" 
+       target="_blank" 
+       rel="noopener"
+       aria-label="GitHub"
+       style="display: inline-flex !important; align-items: center !important; text-decoration: none !important; margin: 0 !important; padding: 0 !important; line-height: 1 !important;">
+      <i class="fab fa-github fa-fw" style="font-size: 1.1rem !important;"></i>
+    </a>
+
+    <a id="copy-link" 
+       href="javascript:void(0)" 
+       class="share-link text-muted" 
+       title="{{ site.data.locales[site.lang].post.copy_link }}" 
+       data-title-succeed="{{ site.data.locales[site.lang].post.copy_link_success }}"
+       style="display: inline-flex !important; align-items: center !important; text-decoration: none !important; margin: 0 !important; padding: 0 !important; line-height: 1 !important;">
+      <i class="fas fa-link fa-fw" style="font-size: 1.1rem !important;"></i>
+    </a>
+
+  </div>
+  <div style="clear: both !important;"></div>
+</div>
