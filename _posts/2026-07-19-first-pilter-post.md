@@ -1,7 +1,7 @@
 ---
 title: (PILTER) PIL-TER 프로젝트에 대한 첫 기록
 date: 2026-07-19 18:12:00 +0900
-categories: [Backend]
+categories: [Backend, Project-PILTER]
 tags: [PIL-TER]
 ---
 ![PIL-TER 프로젝트의 이미지](/pilterImage.jpg)
