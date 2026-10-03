@@ -3,6 +3,7 @@ title: 26년 10월 1째주 자바 공부7(배열/리팩토링)
 date: 2026-09-29 17:44:00 +0900
 categories: [Study, Java]
 tags: [Java]
+published: true
 ---
 
 <h1>26년 10월 1째주 Java 공부</h1>

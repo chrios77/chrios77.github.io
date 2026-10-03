@@ -3,6 +3,7 @@ title: 26년 10월 1째주 자바 공부6(Scanner)
 date: 2026-09-28 17:21:00 +0900
 categories: [Study, Java]
 tags: [Java]
+published: true
 ---
 <h1>26년 10월 1째주 Java 공부</h1>
 <h2>26년 09월 28일 월요일 자바 공부</h2>

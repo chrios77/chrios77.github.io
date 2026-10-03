@@ -3,6 +3,7 @@ title: 26년 10월 1째주 자바 공부8(메소드/파라미터)
 date: 2026-09-30 17:44:00 +0900
 categories: [Study, Java]
 tags: [Java]
+published: true
 ---
 
 <h1>26년 10월 1째주 Java 공부</h1>

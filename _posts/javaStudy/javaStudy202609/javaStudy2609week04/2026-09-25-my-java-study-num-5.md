@@ -3,6 +3,7 @@ title: 26년 09월 4째주 자바 공부5(변수/형변환/오버플로우)
 date: 2026-09-25 17:44:00 +0900
 categories: [Study, Java]
 tags: [Java]
+published: true
 ---
 
 <h1>26년 09월 25일 금요일 자바 공부</h1>

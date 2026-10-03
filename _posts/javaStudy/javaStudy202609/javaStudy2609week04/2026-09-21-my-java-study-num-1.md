@@ -3,6 +3,7 @@ title: 26년 09월 4째주 자바 공부1(메인 함수/주석부터 변수 및 
 date: 2026-09-21 17:44:00 +0900
 categories: [Study, Java]
 tags: [Java]
+published: true
 ---
 
 <h2>26년 09월 4째주 자바 공부</h2>
