@@ -1,6 +1,6 @@
 ---
 title: 26년 10월 1째주 회고 3회차
-date: 2026-10-03 12:09:00 +0900
+date: 2026-10-10 12:09:00 +0900
 categories: [Reminder, WeekDay]
 tags: [회고]
 published: true
