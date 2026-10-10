@@ -1,5 +1,5 @@
 ---
-title: 26년 09월 4째주 자바 공부2(연산자)
+title: 26년 09월 4째주 자바 공부 2일차(연산자)
 date: 2026-09-22 17:44:00 +0900
 categories: [Study, Java]
 tags: [Java]

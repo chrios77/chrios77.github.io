@@ -1,8 +1,8 @@
 ---
 title: 26년 09월 4째주 회고 1회차
 date: 2026-09-26 14:44:00 +0900
-categories: [Study, Java]
-tags: [Java]
+categories: [Reminder, WeekDay]
+tags: [회고]
 published: true
 ---
 

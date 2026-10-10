@@ -1,5 +1,5 @@
 ---
-title: 26년 09월 4째주 자바 공부4(반복문)
+title: 26년 09월 4째주 자바 공부 4일차(반복문)
 date: 2026-09-24 17:44:00 +0900
 categories: [Study, Java]
 tags: [Java]

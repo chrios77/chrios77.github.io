@@ -1,5 +1,5 @@
 ---
-title: 26년 10월 1째주 자바 공부6(Scanner)
+title: 26년 10월 1째주 자바 공부 6일차(Scanner)
 date: 2026-09-28 17:21:00 +0900
 categories: [Study, Java]
 tags: [Java]
