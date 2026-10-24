@@ -1,12 +1,12 @@
 ---
-title: 26년 10월 2째주 자바 공부 16일차(정적 메소드/인스턴스 메소드/static import/final 키워드)
+title: 26년 10월 3째주 자바 공부 16일차(정적 메소드/인스턴스 메소드/static import/final 키워드)
 date: 2026-10-13 17:44:00 +0900
 categories: [Study, Java]
 tags: [Java]
 published: true
 ---
 
-<h1>26년 10월 2째주 Java 공부</h1>
+<h1>26년 10월 3째주 Java 공부</h1>
 <h2>26년 10월 13일 화요일 자바 공부</h2>
 1. 오늘은 자바 기본편 56강에서 61강까지 수강했다. 
 2. 정적 메소드, 인스턴스 메소드, static import, final 키워드에 대해 배웠다.
