@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 안녕하세요. 백엔드 개발자 박제욱입니다.
+title: 정보
 icon: fas fa-info-circle
 permalink: /about/
 ---
