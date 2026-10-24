@@ -1,5 +1,5 @@
 ---
-title: 26년 10월 4째주 자바 공부 21일차()
+title: 26년 10월 4째주 자바 공부 21일차(OCP)
 date: 2026-10-21 17:44:00 +0900
 categories: [Study, Java]
 tags: [Java]
