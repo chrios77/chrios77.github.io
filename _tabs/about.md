@@ -1,11 +1,10 @@
 ---
 layout: page
-title: 정보
+title: 안녕하세요, 백엔드 개발자 박제욱입니다.
 icon: fas fa-info-circle
 permalink: /about/
 ---
 
-## 안녕하세요, 백엔드 개발자 박제욱입니다.
 안녕하세요. Java, Spring Boot를 다루는 백엔드 개발자 박제욱입니다.
 
 문제 해결을 위한 탄탄한 기본기를 지향하고 있습니다.
